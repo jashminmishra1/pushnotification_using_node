@@ -2,6 +2,8 @@
 
 It is a push notification system using node server on an html file.
 
+Html File here is for demonstration purpose .
+
 You will get push notifications when you run the program on the node server.
 
 # STEPS:
